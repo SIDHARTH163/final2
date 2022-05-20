@@ -68,10 +68,11 @@ export default function Home() {
                       {/* <App_row title={i.Category} changeState={changeState} ShowSignleapp={ShowSignleapp}/>
                */}
                       <Apps_cat title="Sports" changeState={changeState}  />
-                      <Apps_cat title="Gaming" changeState={changeState}  />
-                      <Apps_cat title="News" changeState={changeState}  />
-                      <Apps_cat title="Social Media" changeState={changeState}  />
-                      <Apps_cat title="Shoping" changeState={changeState}  />
+                      <Apps_cat title="Sports" changeState={changeState}  />
+                      <Apps_cat title="Sports" changeState={changeState}  />
+                      <Apps_cat title="Sports" changeState={changeState}  />
+                      <Apps_cat title="Sports" changeState={changeState}  />
+                      <Apps_cat title="Sports" changeState={changeState}  />
 
                     </>
                 }</>}
