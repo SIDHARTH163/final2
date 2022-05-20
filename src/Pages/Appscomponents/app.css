@@ -1,0 +1,190 @@
+.side_container{
+  box-shadow: 0 4px 4px -2px lightblue;
+}
+
+.Apps-text{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(47, 47, 47);
+    font-size: 0.9em;
+    font-weight: 600;
+    text-decoration: none;
+}
+.Apps-texts{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(47, 47, 47);
+    font-size: 2em;
+    font-weight: 400;
+    text-decoration: none;
+}
+.Apps-text1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+    font-size: 0.1em;
+}
+.app-img{
+  box-shadow: 0 4px 4px -2px lightblue;
+    border-radius: 5px;
+}
+.apps_section{
+  text-decoration: none;
+}
+.apps_section:hover{
+    cursor:progress;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    border-radius: 12px;
+    background-color: aliceblue;
+}
+ .icon  {
+    color: rgb(255, 251, 0);
+  }
+  .small_text{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+      font-size: 0.7em;
+      font-weight: 400;
+      color: rgb(112, 111, 111);
+  }
+ 
+  .small_texts{
+    font-size: 0.8em;
+    font-weight: 700;
+    color: rgb(112, 111, 111);
+}
+.description{
+    height: 10rem;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    overflow-x: auto;
+
+}
+
+/* star rating style */
+.star__rating {
+    display: inline-block;
+    position: relative;
+    height: 30px;
+    line-height: 40px;
+    font-size: 40px;
+  }
+  
+  .star__rating label {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    cursor: pointer;
+  }
+  
+  .star__rating label:last-child {
+    position: static;
+  }
+  
+  .star__rating label:nth-child(1) {
+    z-index: 5;
+  }
+  
+  .star__rating label:nth-child(2) {
+    z-index: 4;
+  }
+  
+  .star__rating label:nth-child(3) {
+    z-index: 3;
+  }
+  
+  .star__rating label:nth-child(4) {
+    z-index: 2;
+  }
+  
+  .star__rating label:nth-child(5) {
+    z-index: 1;
+  }
+  
+  .star__rating label input {
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0;
+  }
+  
+  .star__rating label .icon {
+    float: left;
+    color: transparent;
+  }
+  
+  .star__rating label:last-child .icon {
+    color: #000;
+  }
+  
+  .star__rating:not(:hover) label input:checked ~ .icon,
+  .star__rating:hover label:hover input ~ .icon {
+    color: rgb(38, 113, 251);
+  }
+  
+  .star__rating label input:focus:not(:checked) ~ .icon:last-child {
+    color: #000;
+    text-shadow: 0 0 5px rgb(23, 169, 242);
+  }
+  /* custom */.list-group-item.active, .list-group-item.active:focus, .list-group-item.active:hover{
+  color: black;
+  background-color: transparent;
+  border: 1px solid black;
+}
+.reviews__pill{
+  border-radius: 20px;
+}
+.reviews__header__content h2{
+  color: #153280;
+}
+.reviews__new__btn{
+  padding: 10px;
+}
+.reviews__content, .reviews__form {
+  margin-top: 20px;
+}
+.reviews__filter__two .fa-star{
+  color: yellow;
+} 
+.review{
+  min-height: 200px;
+  box-shadow: 4px 8px 8px whitesmoke;
+  padding: 10px;
+  margin: 5px;
+} 
+.rev{
+  font-size: 18px;
+}
+.Apps_text{
+  font-size: 0.9rem;
+  text-decoration: none;
+  cursor: pointer;
+}
+.Apps_text:hover{
+  font-weight: 700;
+  font-size: 0.9rem;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+
+
+.material-symbols-outlined{
+  font-size: 1.2em;
+  margin-top: 0.2rem;
+  
+  text-decoration: none;
+  cursor: pointer;
+}
+
+
+/* app_cat */
+
+.small_text1{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  
+    font-size: 0.7em;
+    font-weight: 400;
+    color: rgb(41, 40, 40);
+    text-decoration: none;
+}
+.app_container_cat{
+  box-shadow: 0 4px 4px -2px lightblue;
+}

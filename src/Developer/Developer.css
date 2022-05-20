@@ -1,0 +1,41 @@
+
+.login_main{
+    box-shadow: 0 4px 4px -2px lightblue;
+    background-color: white;
+}
+.login{
+    border-radius: 12px;
+    background-image: url('./images/logo.png');
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: contain;
+    
+}
+.login-form{
+ 
+    height: 25rem;
+    margin-top: 5rem;
+}
+.login_form{
+    box-shadow: 0 4px 4px -2px lightblue;
+    border-radius: 12px;
+}
+@media only screen and (max-width: 600px) {
+    .login_form{
+      margin-bottom: 3rem;
+        
+      margin-top: 3rem;
+    }
+    .login{
+        
+        background-image: none;
+       
+       
+        background-size: cover;
+    }
+  }
+
+  .Form_container{
+    
+      height: 200px;
+  }

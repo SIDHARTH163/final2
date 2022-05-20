@@ -1,0 +1,10 @@
+.app_container{
+     border-radius: 12px;
+    margin-top: 1rem;
+    box-shadow: 0 4px 4px -2px lightblue;
+}
+
+.main-container-upload{
+    box-shadow: 0 4px 4px -2px lightblue;
+    border-radius: 5px;
+}

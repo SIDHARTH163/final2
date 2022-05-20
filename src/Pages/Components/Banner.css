@@ -1,0 +1,16 @@
+.banner{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    background-image: url('https://ncrts.com/public/images/ncr-mobilebanner.jpg');
+    background-repeat: no-repeat;
+  background-attachment:scroll;
+  background-position: center;
+  background-size: cover;
+
+}
+.large{
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.small{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}

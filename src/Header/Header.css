@@ -1,0 +1,15 @@
+#basic-nav-dropdown{
+    color: black;
+   font-weight: 500;
+}
+.nav-Text{
+  font-weight: 500;
+}
+.nv{
+  box-shadow: 0 4px 4px 0 rgba(0,0,0,0.2);
+}
+.header-font{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1.5em;
+    font-weight: 500;
+}

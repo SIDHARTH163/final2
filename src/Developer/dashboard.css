@@ -1,0 +1,76 @@
+
+.navbar_dash{
+   
+    box-shadow: 0 4px 4px -1px lightblue;
+    border-bottom-left-radius:1rem ;
+    border-bottom-right-radius:1rem ;
+}
+.dropdown{
+    color: rgb(65, 64, 64);
+}
+#basic-nav-dropdown1{
+    color: rgb(65, 64, 64);
+    font-weight: bold;
+    font-size: 1em;
+}
+#basic-nav-dropdown1:hover{
+    border-radius: 4px;
+    box-shadow: 0 4px 4px -2px lightblue;
+}
+.nav-text{
+    color: rgb(65, 64, 64);
+    font-weight: bold;
+    font-size: 1em;
+}
+.nav-text:hover{
+    border-radius: 4px;
+    box-shadow: 0 4px 4px -2px lightblue;
+}
+.main_container_dashboard{
+  
+    height: 720px;
+    margin-bottom: 3rem;
+   overflow: auto;
+    
+   
+   overflow-y: scroll;
+   overflow-y: scroll;
+}
+.content{
+   
+    height: 10rem;
+    border-radius:12px;
+       box-shadow: 0 4px 4px -2px lightblue;
+    /* box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px; */
+}
+.content1{
+   
+    height: 10rem;
+    border-radius:12px;
+       box-shadow: 0 4px 4px -2px lightblue;
+    /* box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px; */
+}
+.content2{
+   
+    height: 10rem;
+    border-radius:12px;
+       box-shadow: 0 4px 4px -2px lightblue;
+    /* box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px; */
+}
+.content3{
+   
+    height: 10rem;
+    border-radius:12px;
+       box-shadow: 0 4px 4px -2px lightblue;
+    /* box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px; */
+}
+.Apps-text2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(71, 71, 71);
+    font-size: 2em;
+    font-weight: 600;
+    text-decoration: none;
+    box-shadow: 0 4px 4px -2px lightskyblue;
+    padding: 0.4rem;
+    border-radius: 5px;
+}
