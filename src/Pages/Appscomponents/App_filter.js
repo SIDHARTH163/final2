@@ -78,7 +78,7 @@ export default function Apps_filter(props) {
   apps.map((i, index) => (
            <div className='col ms-lg-4 ms-md-2 ms-sm-0 ms-0 app_container_cat my-1 py-3 bg-white' key={index}>
                <div className='img_container1 d-flex justify-content-center py-2'>
-               <img className='app-img ' width="90%" height="130px" alt="logo" src={i.logo}></img>
+               <img className='app-img ' width="100%" height="130px" alt="logo" src={i.logo}></img>
                </div>
                <div className='img_container1 d-flex justify-content-center'>
                <a className=' small_text1 text-justify fs-6 ' >{i.name}</a>
